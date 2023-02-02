@@ -4,3 +4,5 @@ I am Kelvin Keith Binangbang and I'm Managing "README.md". This will be submitte
 - [@kitkeith](https://github.com/kitkeith)
 ## Sample Code
 `printf( 'Hello World' );`
+## How to Install
+- Step 1: Download the zip file or use git clone
